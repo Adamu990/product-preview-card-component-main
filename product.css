@@ -9,7 +9,7 @@ html{box-sizing: border-box;}
 .bod2{border-top-right-radius: 10px; border-bottom-right-radius: 10px;}
 .tab{ display: table; border-radius: 10px;}
 
-.image{background-image: url(../images/deskt.jpg); 
+.image{background-image: url(deskt.jpg); 
     background-repeat: no-repeat; background-size: cover;}
 #gab{ font-size: 2em; font-weight: bold; text-transform: lowercase; font-family: 'Fraunces', serif;}
 #prevprice{font-size: 14px;text-decoration: line-through;}
